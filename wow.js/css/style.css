@@ -1,0 +1,9 @@
+.container{width: 1140px;margin: 0 auto;}
+.box1, .box2, .box3, .box4, .box5, .box6{width: 550px;height: 200px;margin-bottom: 5px;}
+.box1{float: left;background-color: teal;}
+.box2{float: right;background-color: brown;}
+.clear{clear: both;background-color: grey;}
+.box3{float: left;background-color: tomato;}
+.box4{float: right;background-color: rebeccapurple;}
+.box5{float: left;background-color: palevioletred;}
+.box6{float: right;background-color: royalblue;}
